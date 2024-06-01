@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\Nhom14_QuanLiSinhVien\\Nhom14_QuanLiSinhVien_Sang5\\5.2_PROJECT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D62D2D9C-A9AD-4380-9256-6C7A097A264C}|5.2_PROJECT.csproj|c:\\users\\admin\\downloads\\nhom14_quanlisinhvien\\nhom14_quanlisinhvien_sang5\\5.2_project\\tracuuchuyennganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D62D2D9C-A9AD-4380-9256-6C7A097A264C}|5.2_PROJECT.csproj|solutionrelative:tracuuchuyennganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62D2D9C-A9AD-4380-9256-6C7A097A264C}|5.2_PROJECT.csproj|C:\\Users\\Admin\\Downloads\\Nhom14_QuanLiSinhVien\\Nhom14_QuanLiSinhVien_Sang5\\5.2_PROJECT\\_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D62D2D9C-A9AD-4380-9256-6C7A097A264C}|5.2_PROJECT.csproj|solutionrelative:_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D62D2D9C-A9AD-4380-9256-6C7A097A264C}|5.2_PROJECT.csproj|C:\\Users\\Admin\\Downloads\\Nhom14_QuanLiSinhVien\\Nhom14_QuanLiSinhVien_Sang5\\5.2_PROJECT\\_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D62D2D9C-A9AD-4380-9256-6C7A097A264C}|5.2_PROJECT.csproj|solutionrelative:_menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TraCuuChuyenNganh.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Nhom14_QuanLiSinhVien\\Nhom14_QuanLiSinhVien_Sang5\\5.2_PROJECT\\TraCuuChuyenNganh.cs",
+              "RelativeDocumentMoniker": "TraCuuChuyenNganh.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Nhom14_QuanLiSinhVien\\Nhom14_QuanLiSinhVien_Sang5\\5.2_PROJECT\\TraCuuChuyenNganh.cs [Design]",
+              "RelativeToolTip": "TraCuuChuyenNganh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T15:42:28.571Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Nhom14_QuanLiSinhVien\\Nhom14_QuanLiSinhVien_Sang5\\5.2_PROJECT\\_Menu.cs",
+              "RelativeDocumentMoniker": "_Menu.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\Nhom14_QuanLiSinhVien\\Nhom14_QuanLiSinhVien_Sang5\\5.2_PROJECT\\_Menu.cs",
+              "RelativeToolTip": "_Menu.cs",
+              "ViewState": "AQIAAOIAAAAAAAAAAAAiwOgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-31T15:42:28.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\Nhom14_QuanLiSinhVien\\Nhom14_QuanLiSinhVien_Sang5\\5.2_PROJECT\\_Menu.cs",
+              "RelativeDocumentMoniker": "_Menu.cs",
+              "ToolTip": "D:\\btapcacmon\\laptrinhungdung\\5.2_PROJECT\\_Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-31T15:42:28.903Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
